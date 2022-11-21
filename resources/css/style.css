@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download-link{
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+.download-link a{
+    text-decoration: inherit;
+    color: inherit;
+}
