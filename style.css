@@ -1,6 +1,6 @@
 html{
     background-color: black;
-    font-family: verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -20,12 +20,26 @@ html{
 }
 
 .travel-guide{
-    font-family: verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
 }
 
 .travel-guide p{
     font-size: 26px;
+    color: gray;
+}
+
+.phone img{
+    padding-top: 20px;
+    
+}
+
+.coming-soon{
+    font-size: 35px;
+}
+
+.copyright{
+    text-align: right;
     color: gray;
 }
