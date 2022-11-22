@@ -18,3 +18,14 @@ html{
     text-decoration: inherit;
     color: inherit;
 }
+
+.travel-guide{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.travel-guide p{
+    font-size: 26px;
+    color: gray;
+}
